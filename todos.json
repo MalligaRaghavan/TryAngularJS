@@ -1,0 +1,6 @@
+[{"$id": "1", "title":"Study AngularJS","completed":false},
+{"$id": "2", "title":"Buy Milk","completed":true},
+{"$id": "3", "title":"Tone up Body","completed":true},
+{"$id": "4", "title":"Be fit","completed":true},
+{"$id": "5", "title":"Drop Cheque","completed":true},
+{"$id": "6", "title":"Start Exercising","completed":false}]
